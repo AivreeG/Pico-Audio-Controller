@@ -96,7 +96,7 @@ char const *string_desc_arr[] =
         {
                 (const char[]) {0x09, 0x04}, // 0: is supported language is English (0x0409)
                 "AivreeG",                     // 1: Manufacturer
-                "Audio Hardware Controller",              // 2: Product
+                "Pico Audio Controller",              // 2: Product
                 "RP2040",                      // 3: Serials, should use chip ID
         };
 
